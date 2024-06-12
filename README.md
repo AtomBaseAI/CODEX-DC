@@ -1,14 +1,5 @@
-# CodeBox
+# CodeX
 
-> API is still under early stages of development, so feel free to contribute in the project.
-
-### Introducing the new CodeBox API
-
-An API which executes codes
-
-## Info
-
-This version is not hosted, you can access the deployed version here - "https://github.com/kushagra-goyal-14/CodeBox-API"
 
 ## Requirements !!
 
